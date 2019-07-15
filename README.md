@@ -60,7 +60,7 @@ KubeEdge is composed of the following components:
 
 ## Meeting
 
-Regular Community Meeting: Wednesday at 11:00 Beijing Time (biweekly).
+Regular Community Meeting: Wednesday at 16:30 Beijing Time (biweekly).
 
 - [Meeting notes and agenda](https://docs.google.com/document/d/1Sr5QS_Z04uPfRbA7PrXr3aPwCRpx7EtsyHq7mp6CnHs/edit)
 - [Meeting recordings](https://www.youtube.com/playlist?list=PLQtlO1kVWGXkRGkjSrLGEPJODoPb8s5FM)
@@ -81,7 +81,7 @@ If you need support, start with the [troubleshooting guide], and work your way t
 If you have questions, feel free to reach out to us in the following ways:
 
 - [mailing list](https://groups.google.com/forum/#!forum/kubeedge)
-- [slack](https://join.slack.com/t/kubeedge/shared_invite/enQtNDg1MjAwMDI0MTgyLTQ1NzliNzYwNWU5MWYxOTdmNDZjZjI2YWE2NDRlYjdiZGYxZGUwYzkzZWI2NGZjZWRkZDVlZDQwZWI0MzM1Yzc)
+- [slack](https://join.slack.com/t/kubeedge/shared_invite/enQtNjc0MTg2NTg2MTk0LWJmOTBmOGRkZWNhMTVkNGU1ZjkwNDY4MTY4YTAwNDAyMjRkMjdlMjIzYmMxODY1NGZjYzc4MWM5YmIxZjU1ZDI)
 
 ## Contributing
 
